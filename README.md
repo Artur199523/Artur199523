@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">A passionate hardcoder from Decentralized World</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shitikyan](https://github.com/Artur199523)
+- 👨‍💻 All of my projects are available at [https://github.com/Artur199523](https://github.com/Artur199523)
 
 - 💬 Ask me about **Web3, Smart Contract, React, Next, Node **
 
